@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MinimalOwinWebApiSelfHost.Test")]
+[assembly: AssemblyTitle("EBL.Http.Extensions")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MinimalOwinWebApiSelfHost.Test")]
+[assembly: AssemblyProduct("EBL.Http.Extensions")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0fc0d6c5-4b91-401d-9be5-3f405bc06444")]
+[assembly: Guid("73d7c63f-a2d8-4782-924d-db6b2f1385bf")]
 
 // Version information for an assembly consists of the following four values:
 //

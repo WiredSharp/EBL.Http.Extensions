@@ -1,13 +1,13 @@
-﻿using NUnit.Framework;
+﻿using EBL.Http.Extensions.MessageHandlers;
+using NUnit.Framework;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
 using System.Threading;
 using System.Threading.Tasks;
-using MinimalOwinWebApiSelfHost.Clients;
 
-namespace MinimalOwinWebApiSelfHost.Test
+namespace EBL.Http.Extensions.Test
 {
     [TestFixture]
     public class DelegatingHandlerExtensionsTest
