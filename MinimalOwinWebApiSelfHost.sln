@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalOwinWebApiSelfHost", "src\MinimalOwinWebApiSelfHost\MinimalOwinWebApiSelfHost.csproj", "{8CB280DB-41B5-4786-AEFB-1308A1859493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorizationStudy", "src\AuthorizationStudy\AuthorizationStudy.csproj", "{D2CC0439-E322-4197-8EA0-4490A05AE21E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalOwinWebApiSelfHost.Test", "tests\MinimalOwinWebApiSelfHost.Test\MinimalOwinWebApiSelfHost.Test.csproj", "{0FC0D6C5-4B91-401D-9BE5-3F405BC06444}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CB280DB-41B5-4786-AEFB-1308A1859493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB280DB-41B5-4786-AEFB-1308A1859493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB280DB-41B5-4786-AEFB-1308A1859493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB280DB-41B5-4786-AEFB-1308A1859493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2CC0439-E322-4197-8EA0-4490A05AE21E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2CC0439-E322-4197-8EA0-4490A05AE21E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2CC0439-E322-4197-8EA0-4490A05AE21E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2CC0439-E322-4197-8EA0-4490A05AE21E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC0D6C5-4B91-401D-9BE5-3F405BC06444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC0D6C5-4B91-401D-9BE5-3F405BC06444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC0D6C5-4B91-401D-9BE5-3F405BC06444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC0D6C5-4B91-401D-9BE5-3F405BC06444}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FE06088-E4B0-4F12-82B2-5759C4982EC1}
+	EndGlobalSection
+EndGlobal

@@ -330,4 +330,35 @@ _Pvt_Extensions
 # ---> VisualStudioCode
 .settings
 
-
+Thumbs.db
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.sln.docstates
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+*.vssscc
+$tf*/
+packages*/
+/MigrationBackup/
+/.vs/਍ⸯ獶യ⼊慰正条獥യ
